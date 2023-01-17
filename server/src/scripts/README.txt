@@ -1,0 +1,1 @@
+Python calculation scripts have been removed from this folder as they contain proprietary calculations used by AusCycling. Hence the webapp is not fully functional.
